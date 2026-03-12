@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM eclipse-temurin:17-jdk-jammy
 VOLUME /tmp
 WORKDIR /app
 COPY build/libs/LinkShortener-V1.0.jar app.jar
