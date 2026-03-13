@@ -1,4 +1,4 @@
-# 📝 Spring Notes App
+# 📝 Spring ShortLink Service
 
 **DEMO:** [https://shortlink-7s86.onrender.com/login](https://shortlink-7s86.onrender.com/login)  
 **SWAGGER:** [https://shortlink-7s86.onrender.com/swagger-ui/index.html](https://shortlink-7s86.onrender.com/swagger-ui/index.html)
