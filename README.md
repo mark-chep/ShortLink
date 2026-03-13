@@ -1,6 +1,6 @@
 # 📝 Spring Notes App
 
 **DEMO:** [https://shortlink-7s86.onrender.com/login](https://shortlink-7s86.onrender.com/login)  
-**SWAGGER:** [https://shortlink-7s86.onrender.com/login](http://localhost:8080/swagger-ui/index.html)
+**SWAGGER:** [https://shortlink-7s86.onrender.com/login](https://shortlink-7s86.onrender.com/swagger-ui/index.html)
 
 > ⏳ **Please wait 40-60s** for the free Render instance to spin up.
